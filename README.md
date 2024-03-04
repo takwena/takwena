@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @takwena
+- 👋 Hi, I’m Thabani
 - 👀 I’m interested in Full Stack Developement
 
 ## Programming langauges & Technologies:
