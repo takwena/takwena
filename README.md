@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @takwena
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full Stack Developement
 
-<!---
-takwena/takwena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Programming langauges & Technologies:
+- *Wed Developement*: HTML, CSS, JavaScript, React, Node.js, Express.js
+- *Software Developement*: C# and Java
+- *Database*: MongoDB
